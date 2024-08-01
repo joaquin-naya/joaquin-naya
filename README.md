@@ -13,7 +13,7 @@ If you are looking for someone passionate, committed and willing to face any cha
       joaquinjavier.naya@gmail.com
     </a>    
     <br>
-    <a href="www.linkedin.com/in/joaquín-javier-naya-286865232">
+    <a href="[www.linkedin.com/in/joaquín-javier-naya-286865232](https://www.linkedin.com/in/joaqu%C3%ADn-javier-naya-286865232/)">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
       Joaquín Naya
     </a>
